@@ -1,0 +1,16 @@
+.signup-container{
+    width: 30%;
+    margin: 40px 35% auto;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: left;
+}
+
+.chart-tabs-container{
+    padding: 20px 30px;
+    width: 70%;
+    margin: 20px auto;
+    border: .2rem solid #ececec;
+    border-radius: 8px 8px 0 0;
+}
